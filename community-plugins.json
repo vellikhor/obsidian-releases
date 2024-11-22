@@ -14230,12 +14230,12 @@
    "description": "A plugin to audit passwords for strength and breaches, and generate secure passwords.",
    "repo": "prashanthpulisetti/password-audit"
   },
-+ {
-+  "id": "mass-create",
-+  "name": "Mass Create",
-+  "author": "vellikhor",
-+  "description": "Create large quantities of notes easily at one time.",
-+  "repo": "vellikhor/mass-create:
+  {
+   "id": "mass-create",
+   "name": "Mass Create",
+   "author": "vellikhor",
+   "description": "Create large quantities of notes easily at one time.",
+   "repo": "vellikhor/mass-create:
   }
 
 ]
